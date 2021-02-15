@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.1082
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GitVS_BV_011", "GitVS_BV_011\GitVS_BV_011.vcxproj", "{0ACA5F6D-B693-48E5-A3E2-42DB865539CA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Zadaca", "Zadaca\Zadaca.vcxproj", "{F63C2863-CFC4-42B7-9FED-D56D1E2F2EAB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{0ACA5F6D-B693-48E5-A3E2-42DB865539CA}.Release|x64.Build.0 = Release|x64
 		{0ACA5F6D-B693-48E5-A3E2-42DB865539CA}.Release|x86.ActiveCfg = Release|Win32
 		{0ACA5F6D-B693-48E5-A3E2-42DB865539CA}.Release|x86.Build.0 = Release|Win32
+		{F63C2863-CFC4-42B7-9FED-D56D1E2F2EAB}.Debug|x64.ActiveCfg = Debug|x64
+		{F63C2863-CFC4-42B7-9FED-D56D1E2F2EAB}.Debug|x64.Build.0 = Debug|x64
+		{F63C2863-CFC4-42B7-9FED-D56D1E2F2EAB}.Debug|x86.ActiveCfg = Debug|Win32
+		{F63C2863-CFC4-42B7-9FED-D56D1E2F2EAB}.Debug|x86.Build.0 = Debug|Win32
+		{F63C2863-CFC4-42B7-9FED-D56D1E2F2EAB}.Release|x64.ActiveCfg = Release|x64
+		{F63C2863-CFC4-42B7-9FED-D56D1E2F2EAB}.Release|x64.Build.0 = Release|x64
+		{F63C2863-CFC4-42B7-9FED-D56D1E2F2EAB}.Release|x86.ActiveCfg = Release|Win32
+		{F63C2863-CFC4-42B7-9FED-D56D1E2F2EAB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
